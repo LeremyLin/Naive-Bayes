@@ -1,0 +1,1 @@
+This is a simple implementation of Naive Bayes with three different version from a, b, c with adding a Laplace method.
